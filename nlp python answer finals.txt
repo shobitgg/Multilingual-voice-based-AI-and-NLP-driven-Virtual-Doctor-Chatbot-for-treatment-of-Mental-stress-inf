@@ -1,0 +1,54 @@
+﻿Python decorator is a specific change that we make in Python syntax to alter functions.
+
+String store characters and have many built-in convenience methods that let you modify their content strings are immutable, meaning they cannot be changed in place.
+
+Variables are assigned values using the = operator, which is not to be confused with the == sign used for testing equality, a variable can hold almost any type of value such as lists, dictionaries, functions.
+
+Pickle module accepts any Python object and converts it into a string representation and dumps it into a file by using dump function this process is called pickling While the process of retrieving original Python objects from the stored string representation is called unpickling.
+
+Map function executes the function given as the first argument on all the elements of the iterable given as the second argument If the function given takes in more than 1 arguments then many iterables are given.
+
+TkInter is Python library It is a toolkit for GUI development It provides support for various GUI tools or widgets (such as buttons, labels, text boxes, radio buttons, etc) that are used in GUI applications The common attributes of them include Dimensions, Colors, Fonts, Cursors, etc.
+
+Pickle module accepts any Python object and converts it into a string representation and dumps it into a file by using dump function, this process is called pickling.
+
+Unpickling process of retrieving original Python objects from the stored string representation is called unpickling.
+
+Iterators are used for iterating a group of elements, containers like list.
+
+Slicing is a mechanism that helps you in selecting a range of items from sequence types such as tuple, string, list, etc.
+
+Docstring is another name for a Python documentation string It is way to document Python modules, classes and functions.
+
+Unittest is the unit testing framework in Python It aids in automation testing, sharing of setups, aggregation of tests into collections, shutdown code tests, etc.
+
+You can delete a file with the help of command (os.remove(filename)) or (os.unlink (filename)).
+
+try allows exceptions raised in its attached code block to be caught and handled by except clauses.
+
+with encloses a code block within a context manager.
+
+yield returns a value from a generator function.
+
+Zen of Python is When you type "import this", Python’s philosophy is printed out.
+
+Symptoms:Signs and symptoms of coronavirus disease 2019 (COVID-19) may appear two to 14 days after exposure. This time after exposure and before having symptoms is called the incubation period. Common signs and symptoms can include:Fever ,Cough ,Tiredness .
+
+Summer effect:From the evidence so far, the COVID-19 virus can be transmitted in ALL AREAS, including areas with hot and humid weather. 
+
+The best hospital is SHOBIT Hospital in bangalore which is reognitsed as india first multi national hospital with a rating of 5 star.
+
+The free test center is only located in bangalore which is a government based center,for contacting call 1800758576465.
+
+Count of cases in karnataka:The Covid-19 tally in Karnataka rose to 8.41 lakh and the toll to 11,347 on Friday with the addition of 2,960 cases and 35 deaths.
+
+The incubation period for COVID-19, which is the time between exposure to the virus (becoming infected) and symptom onset, is on average 5-6 day.
+
+For ambulance services,kindly call shobit ambulances 180023427358723832732578.They are available in  a jify.
+
+annotation is a label associated with a variable, a class attribute or a function parameter or return value, used by convention as a type hint.
+
+asynchronous context manager is an object which controls the environment seen in an async with statement by defining __aenter__() and __aexit__() methods introduced by PEP 492.
+
+
+

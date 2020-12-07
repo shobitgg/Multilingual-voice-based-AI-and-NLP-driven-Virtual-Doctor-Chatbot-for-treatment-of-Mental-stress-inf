@@ -1,0 +1,50 @@
+hi
+
+what is your name
+
+i want to know more about tkinter
+
+explian Docstring
+
+will slicing help
+
+what is symptoms of coronavirus
+
+what is summer effect on corona
+
+which is the best hospital in bangalore
+
+can i know the free test centre in bangalore
+
+may i know incubation period for COVID-19
+
+what aids in automation testing
+
+which allows exceptions raised in its attached code block to be caught?
+
+its needed !! I need ambulance
+
+what is the count of cases in karnataka.
+
+thanks
+
+bye
+
+#error message 
+
+
+
+
+output:
+https://www.youtube.com/watch?v=OlC8mXhzNPI&t=44s
+
+
+https://youtu.be/OlC8mXhzNPI
+EXPLANATION
+
+https://www.youtube.com/watch?v=QdG7AbPNIVs
+
+
+https://github.com/shobitgg/NLP-DRIVEN-VIRTUAL-DOCTOR-COVID-CHATBOT-USING-VOICE-OUTPUT--python-tkinter
+
+https://github.com/shobitgg/-NLP-hands-on-fridays
